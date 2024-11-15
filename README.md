@@ -113,14 +113,22 @@ methods = {
 
 生成的图表位于 `plots` 文件夹，示例如下：
 
-![Average Execution Time (s)_comparison_line](./plots/Average Execution Time (s)_comparison_line.png)
-
-
+![l2_rqsts.miss_comparison_line](./plots/l2_rqsts.miss_comparison_line.png)
 
 - **Bar 图**：各矩阵方法的 L1 缓存未命中率对比。
 - **Line 图**：执行时间的趋势对比。
 
 ---
+
+## 改进方向
+
+1.还未写并行和结合优化方法
+
+2.图表显示和比较
+
+3.增加新优化方法
+
+4.增加新性能参数
 
 ## 常见问题
 
