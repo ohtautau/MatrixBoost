@@ -1,0 +1,2 @@
+Method,Average Execution Time (s),mem_load_retired.l1_miss,l2_rqsts.miss,LLC-load-misses,cache-misses,instructions,branches,cycles,context-switches
+mat_mul_jik,0.21662701566666667,1634481.3333333333,8465884.333333334,2861.0,159020.66666666666,5767886614.333333,127980278.33333333,1214129353.6666667,5.0
