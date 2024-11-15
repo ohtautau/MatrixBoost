@@ -113,7 +113,9 @@ methods = {
 
 生成的图表位于 `plots` 文件夹，示例如下：
 
-![Average Execution Time (s)_comparison_line](/home/ohtautau/Downloads/MatrixBoost/plots/Average Execution Time (s)_comparison_line.png)
+![Average Execution Time (s)_comparison_line](./plots/Average Execution Time (s)_comparison_line.png)
+
+
 
 - **Bar 图**：各矩阵方法的 L1 缓存未命中率对比。
 - **Line 图**：执行时间的趋势对比。
